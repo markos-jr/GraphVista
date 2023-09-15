@@ -7,12 +7,12 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
 
 import { MatButtonModule } from '@angular/material/button';
-import { DefaultComponent } from './layouts/default/default.component';
+
 
 @NgModule({
   declarations: [
     AppComponent,
-    DefaultComponent
+
   ],
   imports: [
     BrowserModule,
